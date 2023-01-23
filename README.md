@@ -6,4 +6,5 @@ methodes :
 ``` python
 choose(word) # return ferquencies of the word in sentence
 all_one() # Get all word ferquencies and store them into dictionary
-``` gfuj
+```
+sadasd
