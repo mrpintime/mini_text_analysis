@@ -1,2 +1,9 @@
 # mini_text_analyse
-simple class for analyse text.
+
+simple python class for analyse text.
+
+methodes :
+<code>
+all_one()
+choose(word)
+</code>
