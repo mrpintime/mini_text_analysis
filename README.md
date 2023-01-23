@@ -3,7 +3,7 @@
 simple python class for analyse text.
 
 methodes :
-<code>
+``` python
 all_one()
 choose(word)
-</code>
+```
