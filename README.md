@@ -1,4 +1,4 @@
-# mini_text_analyse
+# mini_text_analysis
 
 simple python class for analyse text.
 
