@@ -4,6 +4,6 @@ simple python class for analyse text.
 
 methodes :
 ``` python
-all_one()
-choose(word)
+choose(word) # return ferquencies of the word in sentence
+all_one() # Get all word ferquencies and store them into dictionary
 ```
